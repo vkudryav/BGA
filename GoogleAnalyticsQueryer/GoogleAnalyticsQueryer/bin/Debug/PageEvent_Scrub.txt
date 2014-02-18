@@ -1,0 +1,1 @@
+ga:hostname	ga:customVarValue1	ga:pagePath	ga:eventCategory	ga:eventAction	ga:eventLabel	ga:totalEvents

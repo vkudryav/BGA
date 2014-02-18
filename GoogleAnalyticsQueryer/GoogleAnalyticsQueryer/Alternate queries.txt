@@ -1,0 +1,44 @@
+Pepper: --viewid "ga:76705509", ^
+Castle: --viewid "ga:75717800", ^
+
+Batch file folder: C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer
+
+
+1, 3, 6: ga:hostName,ga:customVarValue1,ga:customVarValue2,ga:customVarValue3,ga:city,ga:region,ga:country  X  visits, timeonsite
+2, ga:hostName,ga:customVarValue1,ga:referralPath
+
+4
+
+6
+
+
+
+1. Basic Session
+--metrics "ga:visits", ^
+--dimensions "ga:customVarValue1,ga:latitude,ga:longitude,ga:date,ga:hour", ^
+--outputpath "c:\junk\Ga1.txt"
+
+2. Session/referral path, keywork, hostname
+--metrics "ga:visits,ga:timeOnSite", ^
+--dimensions "ga:customVarValue1,ga:latitude,ga:longitude,ga:referralPath,ga:keyword,ga:hostName", ^
+--outputpath "c:\junk\Ga2.txt"
+
+3. Session/Custom vars
+--metrics "ga:visits", ^
+--dimensions "ga:customVarValue1,ga:latitude,ga:longitude,ga:customVarValue2,ga:customVarValue3,ga:date,ga:hour", ^
+--outputpath "c:\junk\Ga3.txt"
+
+4. Page
+--metrics "ga:pageViews", ^
+--dimensions "ga:customVarValue1,ga:latitude,ga:longitude,ga:hostName,ga:pagePath,ga:date,ga:hour", ^
+--outputpath "c:\junk\Ga4.txt"
+
+5. 	Events
+--metrics "ga:totalEvents", ^
+--dimensions "ga:customVarValue1,ga:latitude,ga:longitude,ga:hostName,ga:pagePath,ga:eventCategory,ga:eventAction,ga:eventLabel", ^
+--outputpath "c:\junk\Ga5.txt"
+
+6. 	Session, City, State, Zip
+--metrics "ga:pageViews", ^
+--dimensions "ga:customVarValue1,ga:latitude,ga:longitude,ga:hostName,ga:city,ga:region,ga:country", ^
+--outputpath "c:\junk\Ga6.txt"

@@ -1,0 +1,101 @@
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\obj\Debug\GoogleAnalytics.csprojResolveAssemblyReference.cache
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\GoogleAnalytics.dll
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\GoogleAnalytics.pdb
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\DotNetOpenAuth.dll
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Analytics.v3.dll
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.dll
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.PlatformServices.dll
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\log4net.dll
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.pdb
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.xml
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Analytics.v3.pdb
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Analytics.v3.xml
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.PlatformServices.xml
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\log4net.xml
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\obj\Debug\GoogleAnalytics.dll
+C:\AA-TFS2\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\obj\Debug\GoogleAnalytics.pdb
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\GoogleAnalytics.dll
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\GoogleAnalytics.pdb
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\DotNetOpenAuth.dll
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Analytics.v3.dll
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.dll
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.PlatformServices.dll
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\log4net.dll
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Newtonsoft.Json.dll
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.pdb
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.xml
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Analytics.v3.pdb
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Analytics.v3.xml
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.PlatformServices.pdb
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.PlatformServices.xml
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\log4net.xml
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\obj\Debug\GoogleAnalytics.csprojResolveAssemblyReference.cache
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\obj\Debug\GoogleAnalytics.dll
+F:\AA-TFS\Bellicose\GoogleAnalyticsQueryer\GoogleAnalytics\obj\Debug\GoogleAnalytics.pdb
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\GoogleAnalytics.dll
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\GoogleAnalytics.pdb
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\DotNetOpenAuth.dll
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Analytics.v3.dll
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.dll
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.PlatformServices.dll
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Newtonsoft.Json.dll
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.pdb
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.xml
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Analytics.v3.pdb
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Analytics.v3.xml
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.PlatformServices.pdb
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.PlatformServices.xml
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\obj\Debug\GoogleAnalytics.csprojResolveAssemblyReference.cache
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\obj\Debug\GoogleAnalytics.dll
+E:\Consulting and Contract\XCentium\Bellicose\GoogleAnalyticsQueryer\GoogleAnalyticsQueryer\GoogleAnalytics\obj\Debug\GoogleAnalytics.pdb
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\GoogleAnalytics.dll.config
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\GoogleAnalytics.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\GoogleAnalytics.pdb
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\DotNetOpenAuth.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Analytics.v3.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Auth.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Authentication.OAuth2.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Core.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\log4net.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Newtonsoft.Json.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\System.Net.Http.Extensions.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\System.Net.Http.Primitives.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.pdb
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.xml
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Analytics.v3.pdb
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Analytics.v3.xml
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Auth.pdb
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Auth.xml
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Authentication.OAuth2.pdb
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Authentication.OAuth2.xml
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Core.pdb
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.Core.xml
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\log4net.xml
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\Newtonsoft.Json.xml
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\System.Net.Http.Extensions.xml
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\bin\Debug\System.Net.Http.Primitives.xml
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\obj\Debug\GoogleAnalytics.csproj.App.config
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\obj\Debug\GoogleAnalytics.csprojResolveAssemblyReference.cache
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\obj\Debug\GoogleAnalytics.dll
+C:\Phenomenon\GoogleAnalytics\GoogleAnalyticsQueryer\GoogleAnalytics\obj\Debug\GoogleAnalytics.pdb
